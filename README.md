@@ -5,3 +5,5 @@ Include here are:
 - The models, input and start files for the reported modeling and simulations of PRLR-TMD_LID1, PR. 
 - Scripts used in the analysis of simulation data.
 - Simulation trajectories are avaliable at:https://doi.org/10.5281/zenodo.7011481.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7011481.svg)](https://doi.org/10.5281/zenodo.7011481)
